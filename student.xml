@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<student>
+	<catalog>
+		<number>1111111111</number>
+		<namesurname>Emre YILDIRIM</namesurname>
+		<department>Bilgisayar Mühendisliği</department>
+		<studentclass>3</studentclass>
+	</catalog>
+	<catalog>
+		<number>2222222222</number>
+		<namesurname>Taha Miraç Kopuz</namesurname>
+		<department>İnşaat Mühendisliği</department>
+		<studentclass>4</studentclass>
+	</catalog>
+	<catalog>
+		<number>3333333333</number>
+		<namesurname>Gülçin Önal</namesurname>
+		<department>Çocuk Gelişimi</department>
+		<studentclass>2</studentclass>
+	</catalog>
+	<catalog>
+		<number>4444444444</number>
+		<namesurname>Muhammet Ahmet Ateş</namesurname>
+		<department>Elektirik Elektronik Mühendisliği</department>
+		<studentclass>1</studentclass>
+	</catalog>
+</student>
